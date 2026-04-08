@@ -1,0 +1,2818 @@
+[
+  {
+    "id": "iyengar-way-course-1",
+    "name": "Yoga the Iyengar Way — Course I",
+    "subtitle": "Foundation",
+    "practiceType": "asana",
+    "canonicalSourceId": "yoga-iyengar-way",
+    "tier": "free",
+    "schemeOfPractice": "Alternate lessons 1 and 2 in the first week, then lessons 2 and 3 in the second week, and so on until by week 12 all lessons have been done twice. Finally, consolidate practice by repeating all the lessons once more.",
+    "cautions": [
+      "Take particular care of the knees. Learn to straighten and extend them without straining."
+    ],
+    "lessons": [
+      {
+        "id": 1,
+        "label": "Lesson 1",
+        "poses": [
+          {
+            "poseId": "sukhasana",
+            "displayName": "Sukhasana",
+            "canonicalPage": 53
+          },
+          {
+            "poseId": "parvatasana",
+            "displayName": "Parvatāsana",
+            "canonicalPage": 51,
+            "note": "In Sukhasana"
+          },
+          {
+            "poseId": "tadasana",
+            "displayName": "Tāḍāsana",
+            "canonicalPage": 18
+          },
+          {
+            "poseId": "vrksasana",
+            "displayName": "Vṛkṣāsana",
+            "canonicalPage": 21
+          },
+          {
+            "poseId": "utthita-trikonasana",
+            "displayName": "Utthita Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "utthita-parsvakonasana-ii",
+            "displayName": "Utthita Pārśvakoṇāsana II",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-ii",
+            "displayName": "Vīrabhadrāsana II",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "parsvottanasana-on-ledge",
+            "displayName": "Pārśvottānāsana on ledge",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "uttanasana-i-hands-on-ledge",
+            "displayName": "Uttānāsana I, hands on ledge",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "sukhasana",
+            "displayName": "Sukhasana",
+            "canonicalPage": 53
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "ardha-halasana",
+            "displayName": "Ardha Halāsana",
+            "canonicalPage": 110,
+            "note": "Lying, legs bent over abdomen"
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Do Uttānāsana I between standing poses or after 2 poses, to rest. If back aches, place hands on ledge. Repeat standing poses twice each.",
+          "Learn to adjust height of blankets in Sarvāṅgāsana.",
+          "If Sarvāṅgāsana is difficult, lie with legs up against a wall (p. 80)."
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Lesson 2",
+        "poses": [
+          {
+            "poseId": "sukhasana-and-parvatasana",
+            "displayName": "Sukhasana and Parvatāsana",
+            "canonicalPage": 53
+          },
+          {
+            "poseId": "utthita-hasta-padangusthasana-i-and-ii",
+            "displayName": "Utthita Hasta Pādāṅguṣṭhāsana I and II",
+            "canonicalPage": 20
+          },
+          {
+            "poseId": "tadasana",
+            "displayName": "Tāḍāsana",
+            "canonicalPage": 18
+          },
+          {
+            "poseId": "vrksasana",
+            "displayName": "Vṛkṣāsana",
+            "canonicalPage": 21
+          },
+          {
+            "poseId": "trikonasana",
+            "displayName": "Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "parsvakonasana",
+            "displayName": "Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 26,
+            "note": "Hands on waist"
+          },
+          {
+            "poseId": "virabhadrasana-ii",
+            "displayName": "Vīrabhadrāsana II",
+            "canonicalPage": 28,
+            "note": "Catching the elbows"
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40,
+            "note": "Hands on ledge"
+          },
+          {
+            "poseId": "uttanasana-i",
+            "displayName": "Uttānāsana I",
+            "canonicalPage": 44,
+            "note": "Hands on ledge"
+          },
+          {
+            "poseId": "virasana-and-virasana-forward-bend",
+            "displayName": "Vīrāsana and Vīrāsana forward bend",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "gomukhasana",
+            "displayName": "Gomukhāsana",
+            "canonicalPage": 56,
+            "note": "Arms only"
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "ardha-halasana",
+            "displayName": "Ardha Halāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Rest in Uttānāsana I after Vīrabhadrāsana I.",
+          "Before doing Sarvāṅgāsana, lie down and stretch.",
+          "In Śavāsana, learn to lie straight."
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Lesson 3",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "utthita-hasta-padangusthasana-i-and-ii",
+            "displayName": "Utthita Hasta Pādāṅguṣṭhāsana I and II",
+            "canonicalPage": 20
+          },
+          {
+            "poseId": "uttanasana-i",
+            "displayName": "Uttānāsana I",
+            "canonicalPage": 44,
+            "note": "Hands on ledge"
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "trikonasana",
+            "displayName": "Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "parsvakonasana",
+            "displayName": "Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-ii",
+            "displayName": "Vīrabhadrāsana II",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "prasarita-padottanasana",
+            "displayName": "Prasārita Pādottānāsana",
+            "canonicalPage": 42
+          },
+          {
+            "poseId": "sukhasana",
+            "displayName": "Sukhasana",
+            "canonicalPage": 53
+          },
+          {
+            "poseId": "virasana-forward-bend",
+            "displayName": "Vīrāsana forward bend",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "gomukhasana",
+            "displayName": "Gomukhāsana",
+            "canonicalPage": 56,
+            "note": "Arms only"
+          },
+          {
+            "poseId": "sarvangasana-or-ardha-halasana",
+            "displayName": "Sarvāṅgāsana or Ardha Halāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana",
+            "displayName": "Śavāsana",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Keep arms up in Vīrabhadrāsana I, Trikoṇāsana, Pārśvakoṇāsana, Vīrabhadrāsana II, and Pārśvottānāsana — these are the five basic standing poses."
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Lesson 4",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "tadasana",
+            "displayName": "Tāḍāsana",
+            "canonicalPage": 18
+          },
+          {
+            "poseId": "trikonasana",
+            "displayName": "Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "parsvakonasana",
+            "displayName": "Pārśvakoṇāsana (forward bend)",
+            "canonicalPage": 51
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "virabhadrasana-ii",
+            "displayName": "Vīrabhadrāsana II",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "uttanasana-i",
+            "displayName": "Uttānāsana I",
+            "canonicalPage": 44
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Lesson 5",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "uttanasana-i-and-ii",
+            "displayName": "Uttānāsana I and II",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40,
+            "note": "Eka Pāda Sīrṣāsana"
+          },
+          {
+            "poseId": "trikonasana",
+            "displayName": "Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "parsvakonasana",
+            "displayName": "Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-i-and-ii",
+            "displayName": "Vīrabhadrāsana I and II",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "ardha-matsyendrasana-ii",
+            "displayName": "Ardha Matsyendrāsana II",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "ardha-matsyendrasana-i",
+            "displayName": "Ardha Matsyendrāsana I",
+            "canonicalPage": 70
+          },
+          {
+            "poseId": "bharadvajasana-ii",
+            "displayName": "Bhāradvājāsana II",
+            "canonicalPage": 76
+          },
+          {
+            "poseId": "maricyasana",
+            "displayName": "Māricyāsana (sitting)",
+            "canonicalPage": 78
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Śīrṣāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "urdhva-padma-pascimottanasana",
+            "displayName": "Ūrdhva Padma Paścimottānāsana (p. 60); full posture",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "baddha-padma-pascimottanasana",
+            "displayName": "Baddha Padma Paścimottānāsana",
+            "canonicalPage": 63
+          },
+          {
+            "poseId": "triang-mukhaikapada-pascimottanasana",
+            "displayName": "Triaṅg Mukhaikapāda Paścimottānāsana",
+            "canonicalPage": 62
+          },
+          {
+            "poseId": "supra-virasana",
+            "displayName": "Supra Vīrāsana (p. 58); Jānu Śīrṣāsana",
+            "canonicalPage": 58
+          },
+          {
+            "poseId": "arambhasana",
+            "displayName": "Ārambhāsana (p. 39); Śīrṣāsana",
+            "canonicalPage": 39
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "kurmasana",
+            "displayName": "Kūrmāsana (p. 65); Priyāḥ Upavista Koṇāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "maricyasana",
+            "displayName": "Māricyāsana (p. 113); Karṇapīḍāsana",
+            "canonicalPage": 113
+          },
+          {
+            "poseId": "pinndasana-in-sarvangasana",
+            "displayName": "Pinnḍāsana in Sarvāṅgāsana (p. 114); Sarvāṅgāsana",
+            "canonicalPage": 114
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "In sitting poses, concentrate on turning hips."
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Lesson 6",
+        "poses": [
+          {
+            "poseId": "urdhva-mukha-svanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "supra-konasana",
+            "displayName": "Supra Koṇāsana",
+            "canonicalPage": 54
+          },
+          {
+            "poseId": "adho-mukha-pascimottanasana",
+            "displayName": "Adho Mukha Paścimottānāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "baddha-konasana-dandasana",
+            "displayName": "Baddha Koṇāsana Daṇḍāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "ardha-matsyendrasana",
+            "displayName": "Ardha Matsyendrāsana",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "maricyasana-i",
+            "displayName": "Māricyāsana I",
+            "canonicalPage": 70
+          },
+          {
+            "poseId": "bharadvajasana",
+            "displayName": "Bhāradvājāsana",
+            "canonicalPage": 76
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Śīrṣāsana (p. 60); Paścimottānāsana (p. 64); Baddha Koṇāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "triang-mukha-pascimottanasana",
+            "displayName": "Triaṅg Mukha Paścimottānāsana",
+            "canonicalPage": 62
+          },
+          {
+            "poseId": "arambhasana",
+            "displayName": "Ārambhāsana",
+            "canonicalPage": 39
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sarvangasana",
+            "displayName": "Ūrdhva Padmāsana in Sarvāṅgāsana",
+            "canonicalPage": 113
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "label": "Lesson 7",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 80
+          },
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 80
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "urdhva-mukha-svanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "uttanasana-i",
+            "displayName": "Uttānāsana I",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "trikonasana",
+            "displayName": "Trikoṇāsana",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "parsvakonasana",
+            "displayName": "Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-ii",
+            "displayName": "Vīrabhadrāsana II",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "prasarita-padottanasana",
+            "displayName": "Prasārita Pādottānāsana",
+            "canonicalPage": 42
+          },
+          {
+            "poseId": "supta-konasana",
+            "displayName": "Supta Koṇāsana",
+            "canonicalPage": 54
+          },
+          {
+            "poseId": "adho-mukha-pascimottanasana",
+            "displayName": "Adho Mukha Paścimottānāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Śīrṣāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "parivrtta-janu-sirsasana",
+            "displayName": "Parīvṛtta Jānu Śīrṣāsana",
+            "canonicalPage": 67
+          },
+          {
+            "poseId": "parivrtta-pascimottanasana",
+            "displayName": "Parīvṛtta Paścimottānāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "konasana",
+            "displayName": "Koṇāsana (p. 66); Paścimottānāsana II",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Observe breathing in postures. In forward bends, synchronize actions with breath."
+        ]
+      },
+      {
+        "id": 8,
+        "label": "Lesson 8",
+        "poses": [
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "parsva-sirsasana-i",
+            "displayName": "Pārśva Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "parsvaika-pada-sarvangasana",
+            "displayName": "Pārśvaika Pāda Sarvāṅgāsana",
+            "canonicalPage": 112
+          },
+          {
+            "poseId": "virasana",
+            "displayName": "Virāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 80
+          },
+          {
+            "poseId": "uttanasana-i",
+            "displayName": "Uttānāsana I",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "ardha-matsyendrasana-iii",
+            "displayName": "Ardha Matsyendrāsana III",
+            "canonicalPage": 75
+          },
+          {
+            "poseId": "maricyasana-i",
+            "displayName": "Māricyāsana I (p. 70); II",
+            "canonicalPage": 70
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Śīrṣāsana (p. 60); Paścimottānāsana (p. 64); Baddha Koṇāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "kurmasana",
+            "displayName": "Kūrmāsana (p. 65); Priyāḥ Upavista Koṇāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana (p. 108); Halāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana",
+            "displayName": "Śavāsana",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "label": "Lesson 9",
+        "poses": [
+          {
+            "poseId": "padmasana",
+            "displayName": "Padmāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "baddha-padmasana",
+            "displayName": "Baddha Padmāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "ardha-baddha-padma-pascimottanasana",
+            "displayName": "Ardha Baddha Padma Paścimottānāsana",
+            "canonicalPage": 61
+          },
+          {
+            "poseId": "maricyasana-konasana",
+            "displayName": "Māricyāsana Koṇāsana",
+            "canonicalPage": 63
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "jathara-parivartanasana",
+            "displayName": "Jathara Parivartanāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "supta-konasana",
+            "displayName": "Supta Konāsana",
+            "canonicalPage": 114
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Stay in Vīrāsana and Padmāsana to establish tranquility in forward bends that follow."
+        ]
+      },
+      {
+        "id": 10,
+        "label": "Lesson 10",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "supta-paddhangusthasana",
+            "displayName": "Supta Paddhāṅguṣṭhāsana",
+            "canonicalPage": 109
+          },
+          {
+            "poseId": "anantasana",
+            "displayName": "Anantāsana",
+            "canonicalPage": 109
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "supta-padangusthasana",
+            "displayName": "Supta Pādāṅguṣṭhāsana",
+            "canonicalPage": 88
+          },
+          {
+            "poseId": "jathara-parivartanasana",
+            "displayName": "Jāthara Parivartanāsana",
+            "canonicalPage": 84
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "label": "Lesson 11",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "viparita-karani",
+            "displayName": "Viparīta Karaṇī",
+            "canonicalPage": 122
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "label": "Lesson 12",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 104
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "mayyurasana",
+            "displayName": "Mayyurāsana",
+            "canonicalPage": 105
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "privrtta-sarvangasana",
+            "displayName": "Prīvṛtta Sarvāṅgāsana",
+            "canonicalPage": 112
+          },
+          {
+            "poseId": "viparita-karani",
+            "displayName": "Viparīta Karaṇī",
+            "canonicalPage": 122
+          },
+          {
+            "poseId": "ujjayi-pranayama-i",
+            "displayName": "Ujjāyi Prāṇāyāma I",
+            "canonicalPage": 152
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-04-02T22:14:46.342Z",
+    "updatedAt": "2026-04-02T22:14:46.342Z"
+  },
+  {
+    "id": "iyengar-way-course-2",
+    "name": "Yoga the Iyengar Way — Course II",
+    "subtitle": "General Practice",
+    "practiceType": "asana",
+    "canonicalSourceId": "yoga-iyengar-way",
+    "tier": "free",
+    "lessons": [
+      {
+        "id": "1B",
+        "label": "Lesson 1B (Sitting)",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "baddha-padmasana",
+            "displayName": "Baddha Padmāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "ardha-baddha-padmasana-forward-bend",
+            "displayName": "Ardha Baddha Padmāsana forward bend",
+            "canonicalPage": 61
+          },
+          {
+            "poseId": "maricyasana-konasana",
+            "displayName": "Māricyāsana Koṇāsana",
+            "canonicalPage": 62
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "jathara-parivartanasana",
+            "displayName": "Jāthara Parivartanāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "upavista-konasana",
+            "displayName": "Upavista Koṇāsana",
+            "canonicalPage": 65
+          },
+          {
+            "poseId": "buddha-konasana-pascimottanasana",
+            "displayName": "Buddha Koṇāsana Paścimottānāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "triang-mukhaikapada-pascimottanasana",
+            "displayName": "Triaṅg Mukhaikapāda Paścimottānāsana",
+            "canonicalPage": 62
+          },
+          {
+            "poseId": "supra-virasana",
+            "displayName": "Supra Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "supra-padangusthasana",
+            "displayName": "Supra Pādāṅguṣṭhāsana",
+            "canonicalPage": 84
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 109
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Stay in Vīrāsana and Padmāsana to establish tranquility in forward bends that follow."
+        ]
+      },
+      {
+        "id": "1C",
+        "label": "Lesson 1C (Jumpings and Balancings)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "urdhva-hastasana",
+            "displayName": "Ūrdhva Hastāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "namaskar",
+            "displayName": "Namaskar",
+            "canonicalPage": 46
+          },
+          {
+            "poseId": "bhujangasana-ii",
+            "displayName": "Bhujaṅgāsana II",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "urdhva-hastasana",
+            "displayName": "Ūrdhva Hastāsana",
+            "canonicalPage": 3
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 130
+          },
+          {
+            "poseId": "bhujangasana",
+            "displayName": "Bhujaṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "10-mins",
+            "displayName": "10 mins; Halāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 152
+          }
+        ],
+        "instructorNotes": [
+          "In Adho Mukha Vṛkṣāsana, practice kicking up until you can kick the knees. Learn to drop back from Uttānāsana into Setu Bandha Sarvāṅgāsana and jump up again."
+        ]
+      },
+      {
+        "id": "1D",
+        "label": "Lesson 1D (Relaxation and Pranayama)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 109
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "viparita-karani",
+            "displayName": "Viparīta Karaṇī",
+            "canonicalPage": 122
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 152
+          },
+          {
+            "poseId": "viloma-pranayama-i-and-ii-lying-down",
+            "displayName": "Viloma Prāṇāyāma I and II, lying down",
+            "canonicalPage": 161
+          }
+        ]
+      },
+      {
+        "id": "2A",
+        "label": "Lesson 2A (Standing)",
+        "poses": [
+          {
+            "poseId": "tadasana",
+            "displayName": "Tāḍāsana",
+            "canonicalPage": 18
+          },
+          {
+            "poseId": "parsva-trikonasana",
+            "displayName": "Pārśva Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "parivrtta-parsvakonasana",
+            "displayName": "Parīvṛtta Pārśvakoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "parsva-trikonasana",
+            "displayName": "Pārśva Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "parivrtta-ardha-candrasana",
+            "displayName": "Parīvṛtta Ardha Candrasana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "padangusthasana",
+            "displayName": "Pādāṅguṣṭhāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "triang-mukhaikapada-pascimottanasana",
+            "displayName": "Triaṅg Mukhaikapāda Paścimottānāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-bench",
+            "displayName": "Setu Bandha Sarvāṅgāsana on bench",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "savasana",
+            "displayName": "Śavāsana",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Repeat reverse standing poses several times each."
+        ]
+      },
+      {
+        "id": "2B",
+        "label": "Lesson 2B (Sitting)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "uttanasana-i-and-ii",
+            "displayName": "Uttānāsana I and II",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "parsva-sirsasana",
+            "displayName": "Pārśva Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 54
+          },
+          {
+            "poseId": "parsvaika-pada-sirsasana",
+            "displayName": "Pārśvāika Pāda Sīrṣāsana",
+            "canonicalPage": 103
+          },
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Sīrṣāsana",
+            "canonicalPage": 30
+          },
+          {
+            "poseId": "nutaralambasana",
+            "displayName": "Nutarālambasana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "halasana-sarvangasana",
+            "displayName": "Halāsana Sarvāṅgāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Sīrṣāsana",
+            "canonicalPage": 30
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 152
+          }
+        ],
+        "instructorNotes": [
+          "Observe breathing in postures. In forward bends, synchronize actions with breath."
+        ]
+      },
+      {
+        "id": "2C",
+        "label": "Lesson 2C (Backbends)",
+        "poses": [
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "bhekaasana",
+            "displayName": "Bhekaāsana",
+            "canonicalPage": 86
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair (p. 138) × 6–8",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "maricyasana-ii",
+            "displayName": "Māricyāsana II",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "urdhva-dhanurasana-on-chair-p-138",
+            "displayName": "Ūrdhva Dhanurasana (on chair, p. 138) × 6–8",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "maricyasana-iii",
+            "displayName": "Māricyāsana III",
+            "canonicalPage": 74
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Press sacrum down to keeping body centered between arms and legs. In twists, do intermediate stage."
+        ]
+      },
+      {
+        "id": "2D",
+        "label": "Lesson 2D (Relaxation and Pranayama)",
+        "poses": [
+          {
+            "poseId": "supta-baddha-konasana",
+            "displayName": "Supta Baddha Koṇāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "virasana-forward-bend",
+            "displayName": "Vīrāsana forward bend",
+            "canonicalPage": 51
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-chair",
+            "displayName": "Setu Bandha Sarvāṅgāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "ardha-halasana",
+            "displayName": "Ardha Halāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "sarvangasana-on-bench",
+            "displayName": "Sarvāṅgāsana on bench",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 118
+          },
+          {
+            "poseId": "ardha-halasana",
+            "displayName": "Ardha Halāsana",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "sarvangasana-on-bench",
+            "displayName": "Sarvāṅgāsana on bench",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "ujjayi-pranayama-i-and-ii",
+            "displayName": "Ujjāyi Prāṇāyāma I and II (pp. 158–9)",
+            "canonicalPage": 158
+          },
+          {
+            "poseId": "viloma-pranayama-i-and-ii-lying-down",
+            "displayName": "Viloma Prāṇāyāma I and II, lying down (pp. 161–2)",
+            "canonicalPage": 161
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Make inhalations and exhalations same length and volume."
+        ]
+      },
+      {
+        "id": "3A",
+        "label": "Lesson 3A (Standing)",
+        "poses": [
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "parivrtta-trikonasana",
+            "displayName": "Parīvṛtta Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "parivrtta-parsvakonasana",
+            "displayName": "Parīvṛtta Pārśvakoṇāsana",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "ardha-candrasana",
+            "displayName": "Ardha Candrasana",
+            "canonicalPage": 30
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 42
+          },
+          {
+            "poseId": "prasarita-padottanasana",
+            "displayName": "Prasārita Pādottānāsana",
+            "canonicalPage": 42
+          },
+          {
+            "poseId": "eka-hasta-bhujangasana",
+            "displayName": "Eka Hasta Bhujaṅgāsana",
+            "canonicalPage": 47
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "urdhva-mukha-svanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana",
+            "canonicalPage": 93
+          },
+          {
+            "poseId": "urdhva-mukha-svanasana-without-ledge-uttanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana without ledge Uttānāsana",
+            "canonicalPage": 93
+          },
+          {
+            "poseId": "dhanurasana",
+            "displayName": "Dhanurasana",
+            "canonicalPage": 94
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana",
+            "displayName": "Śavāsana",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": "3B",
+        "label": "Lesson 3B (Sitting)",
+        "poses": [
+          {
+            "poseId": "urdhva-mukha-pascimottanasana",
+            "displayName": "Ūrdhva Mukha Paścimottānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "setu-konasana",
+            "displayName": "Setu Koṇāsana",
+            "canonicalPage": 61
+          },
+          {
+            "poseId": "adho-mukha-svanasana-dandasana",
+            "displayName": "Adho Mukha Śvānāsana Daṇḍāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "uttanasana-i-and-ii",
+            "displayName": "Uttānāsana I and II",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "bharadvajasana",
+            "displayName": "Bhāradvājāsana",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "ardha-matsyendrasana",
+            "displayName": "Ardha Matsyendrāsana",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "pasasana",
+            "displayName": "Pāśāsana",
+            "canonicalPage": 76
+          },
+          {
+            "poseId": "maricyasana-iii",
+            "displayName": "Māricyāsana III",
+            "canonicalPage": 78
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Sīrṣāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "urdhva-padmasana-pascimottanasana",
+            "displayName": "Ūrdhva Padmāsana Paścimottānāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "supta-konasana",
+            "displayName": "Supta Koṇāsana",
+            "canonicalPage": 113
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sarvangasana",
+            "displayName": "Ūrdhva Padmāsana in Sarvāṅgāsana",
+            "canonicalPage": 113
+          },
+          {
+            "poseId": "pindasana-in-sarvangasana",
+            "displayName": "Pindāsana in Sarvāṅgāsana",
+            "canonicalPage": 114
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "In twists, concentrate on turning hips."
+        ]
+      },
+      {
+        "id": "3C",
+        "label": "Lesson 3C (Inverted)",
+        "poses": [
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 105
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana",
+            "canonicalPage": 146
+          },
+          {
+            "poseId": "parsva-sirsasana",
+            "displayName": "Pārśva Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "parsva-sirsasana",
+            "displayName": "Pārśva Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Śīrṣāsana",
+            "canonicalPage": 105
+          },
+          {
+            "poseId": "surya-namaskar",
+            "displayName": "Sūrya Namaskār (p. 10–17)",
+            "canonicalPage": 10
+          },
+          {
+            "poseId": "parsva-halasana",
+            "displayName": "Pārśva Halāsana",
+            "canonicalPage": 112
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 105
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 111
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana",
+            "displayName": "Setu Bandha Sarvāṅgāsana",
+            "canonicalPage": 117
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "In twists, concentrate on turning hips.",
+          "Learn to drop back with one leg into Eka Pāda Sīrṣāsana from Sarvāṅgāsana."
+        ]
+      },
+      {
+        "id": "3D",
+        "label": "Lesson 3D (Relaxation and Pranayama)",
+        "poses": [
+          {
+            "poseId": "supra-virasana",
+            "displayName": "Supra Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-chair",
+            "displayName": "Setu Bandha Sarvāṅgāsana on chair",
+            "canonicalPage": 130
+          },
+          {
+            "poseId": "head-supported",
+            "displayName": "head supported; Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-chair",
+            "displayName": "Setu Bandha Sarvāṅgāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "ardha-halasana",
+            "displayName": "Ardha Halāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "sarvangasana-on-bench",
+            "displayName": "Sarvāṅgāsana on bench (pp. 158–9)",
+            "canonicalPage": 158
+          },
+          {
+            "poseId": "ujjayi-pranayama-i-and-ii-lying-down",
+            "displayName": "Ujjāyi Prāṇāyāma I and II, lying down",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "viloma-pranayama-i-and-ii-lying-down",
+            "displayName": "Viloma Prāṇāyāma I and II, lying down (pp. 161–2)",
+            "canonicalPage": 161
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": "4A",
+        "label": "Lesson 4A (Standing)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "parivrtta-trikonasana",
+            "displayName": "Parīvṛtta Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "parivrtta-parsvakonasana",
+            "displayName": "Parīvṛtta Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "virabhadrasana-i",
+            "displayName": "Vīrabhadrāsana I",
+            "canonicalPage": 26
+          },
+          {
+            "poseId": "uttanasana-i-and-ii",
+            "displayName": "Uttānāsana I and II",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "ardha-candrasana",
+            "displayName": "Ardha Candrasana",
+            "canonicalPage": 28
+          },
+          {
+            "poseId": "utthita-parsvakonasana",
+            "displayName": "Utthita Pārśvakoṇāsana",
+            "canonicalPage": 24
+          },
+          {
+            "poseId": "parsvottanasana",
+            "displayName": "Pārśvottānāsana",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "urdhva-mukha-svanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana",
+            "canonicalPage": 20
+          },
+          {
+            "poseId": "hasta-padottanasana",
+            "displayName": "Hasta Pādottānāsana",
+            "canonicalPage": 93
+          },
+          {
+            "poseId": "prasarita-padottanasana",
+            "displayName": "Prasārita Pādottānāsana (p. 40–41)",
+            "canonicalPage": 40
+          },
+          {
+            "poseId": "urdhva-mukha-svanasana-without-ledge-uttanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana without ledge Uttānāsana",
+            "canonicalPage": 93
+          },
+          {
+            "poseId": "dhanurasana",
+            "displayName": "Dhanurasana",
+            "canonicalPage": 94
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana",
+            "displayName": "Śavāsana",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": "4B",
+        "label": "Lesson 4B (Sitting)",
+        "poses": [
+          {
+            "poseId": "urdhva-mukha-svanasana",
+            "displayName": "Ūrdhva Mukha Śvānāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "setu-konasana",
+            "displayName": "Setu Koṇāsana",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "adho-mukha-svanasana-dandasana",
+            "displayName": "Adho Mukha Śvānāsana Daṇḍāsana",
+            "canonicalPage": 91
+          },
+          {
+            "poseId": "uttanasana-i-and-ii",
+            "displayName": "Uttānāsana I and II",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "bharadvajasana",
+            "displayName": "Bhāradvājāsana (p. 73); Ardha Matsyendrāsana II",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "maricyasana",
+            "displayName": "Māricyāsana",
+            "canonicalPage": 78
+          },
+          {
+            "poseId": "baddha-konasana-dandasana",
+            "displayName": "Baddha Koṇāsana Daṇḍāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana (p. 64); full posture",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "baddha-konasana",
+            "displayName": "Baddha Koṇāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "buddha-padma-pascimottanasana",
+            "displayName": "Buddha Padma Paścimottānāsana",
+            "canonicalPage": 104
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sirsasana",
+            "displayName": "Ūrdhva Padmāsana in Sīrṣāsana",
+            "canonicalPage": 104
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "maricyasana",
+            "displayName": "Māricyāsana",
+            "canonicalPage": 113
+          },
+          {
+            "poseId": "karnapidasana",
+            "displayName": "Karṇapīḍāsana",
+            "canonicalPage": 112
+          },
+          {
+            "poseId": "pinndasana-in-sarvangasana",
+            "displayName": "Pinnḍāsana in Sarvāṅgāsana",
+            "canonicalPage": 114
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": "4C",
+        "label": "Lesson 4C (Backbends)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "purva-mayurasana-on-chair",
+            "displayName": "Pūrva Mayūrāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "dvi-pada-viparita-dandasana-from-sirsasana",
+            "displayName": "Dvi Pāda Viparīta Daṇḍāsana from Sīrṣāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "urdhva-dhanurasana-against-wall",
+            "displayName": "Ūrdhva Dhanurasana against wall",
+            "canonicalPage": 142
+          },
+          {
+            "poseId": "viparita-dandasana-from-sirsasana",
+            "displayName": "Viparīta Daṇḍāsana from Sīrṣāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana × 3",
+            "canonicalPage": 64
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana (p. 59); × 3",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Do Ūrdhva Dhanurasana several times in different ways. In Ūrdhva Dhanurasana, drop back to wall and aim gradually to release. Go back to rest, come back to front legs and do not force knees back to release gradually, extending it."
+        ]
+      },
+      {
+        "id": "4D",
+        "label": "Lesson 4D (Pranayama)",
+        "poses": [
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 152
+          },
+          {
+            "poseId": "viloma-pranayama-i",
+            "displayName": "Viloma Prāṇāyāma I",
+            "canonicalPage": 52
+          },
+          {
+            "poseId": "viloma-pranayama-ii",
+            "displayName": "Viloma Prāṇāyāma II",
+            "canonicalPage": 157
+          },
+          {
+            "poseId": "normal-breathing-lying-down",
+            "displayName": "normal breathing, lying down (pp. 160–1)",
+            "canonicalPage": 160
+          },
+          {
+            "poseId": "viloma-pranayama-i",
+            "displayName": "Viloma Prāṇāyāma I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "Quality, not quantity, of normal breathing sitting (p. 153).",
+          "Be careful not to overstrain."
+        ]
+      }
+    ],
+    "createdAt": "2026-04-02T22:14:46.342Z",
+    "updatedAt": "2026-04-02T22:14:46.342Z"
+  },
+  {
+    "id": "iyengar-way-course-3",
+    "name": "Yoga the Iyengar Way — Course III",
+    "subtitle": "Intermediate",
+    "practiceType": "asana",
+    "canonicalSourceId": "yoga-iyengar-way",
+    "tier": "free",
+    "schemeOfPractice": "Practice may be arranged so that each day of the week has a different emphasis, with, for example, standing poses on one day, sitting poses the next, then backbends. Other postures may also be included. Practiced Prāṇāyāma may be done at a different time of day or separately, at a different time of day.",
+    "cautions": [
+      "It is essential first to learn pranayama under the guidance of a teacher."
+    ],
+    "lessons": [
+      {
+        "id": 1,
+        "label": "Lesson 1 (Standing and Balancings)",
+        "poses": [
+          {
+            "poseId": "urdhva-hastasana",
+            "displayName": "Ūrdhva Hastāsana",
+            "canonicalPage": 19
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "trikonasana-quick-succession",
+            "displayName": "Trikoṇāsana (quick succession) × 10",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "surya-namaskar",
+            "displayName": "Sūrya Namaskār",
+            "canonicalPage": 6
+          },
+          {
+            "poseId": "parsva-trikonasana",
+            "displayName": "Pārśva Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "parivrtta-ardha-candrasana",
+            "displayName": "Parīvṛtta Ardha Candrasana",
+            "canonicalPage": 34
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "parivrtta-sirsasana",
+            "displayName": "Parīvṛtta Sīrṣāsana",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "bandha-sarvangasana",
+            "displayName": "Bandha Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-bench",
+            "displayName": "Setu Bandha Sarvāṅgāsana on bench",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Lesson 2 (Sitting)",
+        "poses": [
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "parivrtta-parsvakonasana",
+            "displayName": "Parīvṛtta Pārśvakoṇāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "eka-pada-adho-mukha-svanasana",
+            "displayName": "Eka Pāda Adho Mukha Śvānāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana × 3; Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "sirsasana-ii",
+            "displayName": "Sīrṣāsana II",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana (p. 138) × 6–8",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "maricyasana-ii",
+            "displayName": "Māricyāsana II",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "viparita-dandasana-iii",
+            "displayName": "Viparīta Daṇḍāsana III",
+            "canonicalPage": 74
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Lesson 3",
+        "poses": [
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair (p. 136) × 3",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana × 3; Ūrdhva Dhanurasana from Sīrṣāsana",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana (p. 110); Sarvāṅgāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Lesson 4 (Balancings and Backbends)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "pinca-mayurasana",
+            "displayName": "Pinca Mayūrāsana",
+            "canonicalPage": 97
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana × 6; Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "3-adho-mukha-svanasana",
+            "displayName": "3× Adho Mukha Śvānāsana; then lift up into Ūrdhva Dhanurasana from Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Sīrṣāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Lesson 5 (Padmāsana)",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "parivrtta-sirsasana",
+            "displayName": "Parīvṛtta Sīrṣāsana",
+            "canonicalPage": 55
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "parivrtta-pascimottanasana",
+            "displayName": "Parīvṛtta Paścimottānāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "padmasana-in-sirsasana",
+            "displayName": "Padmāsana in Śīrṣāsana",
+            "canonicalPage": 106
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sirsasana",
+            "displayName": "Ūrdhva Padmāsana in Śīrṣāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sarvangasana",
+            "displayName": "Urdhva Padmāsana in Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "pindasana-in-sarvangasana",
+            "displayName": "Pindāsana in Sarvāṅgāsana",
+            "canonicalPage": 115
+          },
+          {
+            "poseId": "parivrtta-pascimottanasana",
+            "displayName": "Parīvṛtta Paścimottānāsana (from Sarvāṅgāsana)",
+            "canonicalPage": 115
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Lesson 6 (Backbends)",
+        "poses": [
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "bhekaasana",
+            "displayName": "Bhekaāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "pinca-mayurasana",
+            "displayName": "Pinca Mayūrāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "dvi-pada-viparita-dandasana",
+            "displayName": "Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "kapotasana",
+            "displayName": "Kapotāsana",
+            "canonicalPage": 143
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "rajakapotasana",
+            "displayName": "Rājākapotāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "parsva-urdhva-padmasana-in-sirsasana",
+            "displayName": "Pārśva Ūrdhva Padmāsana in Śīrṣāsana",
+            "canonicalPage": 73
+          },
+          {
+            "poseId": "urdhva-mukha-pascimottanasana",
+            "displayName": "Ūrdhva Mukha Paścimottānāsana (p. 59); × 3",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ],
+        "instructorNotes": [
+          "CONSOLIDATION: Repeat all the poses and aim for steadiness in the intermediate stages. Absorb the purpose of the intermediate stages. Understand the backbends. Be careful not to overexert. Quality not quantity of normal breathing sitting (p. 153). Pranayama is important."
+        ]
+      }
+    ],
+    "createdAt": "2026-04-02T22:14:46.342Z",
+    "updatedAt": "2026-04-02T22:14:46.342Z"
+  },
+  {
+    "id": "iyengar-way-course-4",
+    "name": "Yoga the Iyengar Way — Course IV",
+    "subtitle": "Advanced",
+    "practiceType": "asana",
+    "canonicalSourceId": "yoga-iyengar-way",
+    "tier": "free",
+    "schemeOfPractice": "Practice may be arranged so that each day of the week has a different emphasis with, for example, standing poses on one day, sitting, twists, backbends. Other postures may also be included. Practiced Prāṇāyāma may be done at a different time of day.",
+    "cautions": [
+      "Do not go on to Course IV until you have achieved a basis to work more elaborately on backbends."
+    ],
+    "lessons": [
+      {
+        "id": 1,
+        "label": "Lesson 1 (Standing and Balancings)",
+        "poses": [
+          {
+            "poseId": "urdhva-hastasana",
+            "displayName": "Ūrdhva Hastāsana",
+            "canonicalPage": 19
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "trikonasana-quick-succession",
+            "displayName": "Trikoṇāsana (quick succession) × 10",
+            "canonicalPage": 22
+          },
+          {
+            "poseId": "surya-namaskar",
+            "displayName": "Sūrya Namaskār",
+            "canonicalPage": 6
+          },
+          {
+            "poseId": "parivrtta-trikonasana",
+            "displayName": "Parīvṛtta Trikoṇāsana",
+            "canonicalPage": 38
+          },
+          {
+            "poseId": "parivrtta-ardha-candrasana",
+            "displayName": "Parīvṛtta Ardha Candrasana",
+            "canonicalPage": 34
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "eka-pada-sirsasana",
+            "displayName": "Eka Pāda Sīrṣāsana",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "parivrtta-sirsasana",
+            "displayName": "Parīvṛtta Sīrṣāsana",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "bandha-sarvangasana",
+            "displayName": "Bandha Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "setu-bandha-sarvangasana-on-bench",
+            "displayName": "Setu Bandha Sarvāṅgāsana on bench",
+            "canonicalPage": 120
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "label": "Lesson 2 (Sitting)",
+        "poses": [
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "parivrtta-parsvakonasana",
+            "displayName": "Parīvṛtta Pārśvakoṇāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "parivrtta-eka-pada-sirsasana",
+            "displayName": "Parīvṛtta Eka Pāda Sīrṣāsana",
+            "canonicalPage": 102
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "eka-pada-adho-mukha-svanasana",
+            "displayName": "Eka Pāda Adho Mukha Śvānāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "sirsasana-ii",
+            "displayName": "Sīrṣāsana II × 45; Pinca Mayūrāsana",
+            "canonicalPage": 97
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana (p. 138) × 6–8",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "maricyasana-ii",
+            "displayName": "Māricyāsana II",
+            "canonicalPage": 45
+          },
+          {
+            "poseId": "viparita-dandasana",
+            "displayName": "Viparīta Daṇḍāsana",
+            "canonicalPage": 74
+          },
+          {
+            "poseId": "pascimottanasana",
+            "displayName": "Paścimottānāsana",
+            "canonicalPage": 66
+          },
+          {
+            "poseId": "savasana-ii",
+            "displayName": "Śavāsana II",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Lesson 3",
+        "poses": [
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "matsyasana",
+            "displayName": "Matsyāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 100
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair (p. 136) × 3; Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana × 3; Ūrdhva Dhanurasana from Sīrṣāsana",
+            "canonicalPage": 138
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana (p. 110); Sarvāṅgāsana",
+            "canonicalPage": 110
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "label": "Lesson 4 (Balancings and Backbends)",
+        "poses": [
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "pinca-mayurasana",
+            "displayName": "Pinca Mayūrāsana",
+            "canonicalPage": 97
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "urdhva-dhanurasana",
+            "displayName": "Ūrdhva Dhanurasana × 6; Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 140
+          },
+          {
+            "poseId": "uttanasana",
+            "displayName": "Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "sirsasana",
+            "displayName": "Sīrṣāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "3-adho-mukha-svanasana",
+            "displayName": "3× Adho Mukha Śvānāsana; then lift up into Ūrdhva Dhanurasana from Uttānāsana",
+            "canonicalPage": 44
+          },
+          {
+            "poseId": "janu-sirsasana",
+            "displayName": "Jānu Sīrṣāsana",
+            "canonicalPage": 60
+          },
+          {
+            "poseId": "halasana",
+            "displayName": "Halāsana",
+            "canonicalPage": 110
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "Lesson 5 (Padmāsana)",
+        "poses": [
+          {
+            "poseId": "virasana",
+            "displayName": "Vīrāsana",
+            "canonicalPage": 50
+          },
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "parivrtta-sirsasana",
+            "displayName": "Parīvṛtta Sīrṣāsana",
+            "canonicalPage": 55
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 83
+          },
+          {
+            "poseId": "parivrtta-pascimottanasana",
+            "displayName": "Parīvṛtta Paścimottānāsana",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "padmasana-in-sirsasana",
+            "displayName": "Padmāsana in Śīrṣāsana",
+            "canonicalPage": 106
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sirsasana",
+            "displayName": "Ūrdhva Padmāsana in Śīrṣāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "urdhva-padmasana-in-sarvangasana",
+            "displayName": "Ūrdhva Padmāsana in Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "pindasana-in-sarvangasana",
+            "displayName": "Pindāsana in Sarvāṅgāsana",
+            "canonicalPage": 115
+          },
+          {
+            "poseId": "parivrtta-pascimottanasana-from-sarvangasana",
+            "displayName": "Parīvṛtta Paścimottānāsana from Sarvāṅgāsana",
+            "canonicalPage": 115
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "label": "Lesson 6 (Backbends)",
+        "poses": [
+          {
+            "poseId": "supta-virasana",
+            "displayName": "Supta Vīrāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "bhekaasana",
+            "displayName": "Bhekaāsana",
+            "canonicalPage": 82
+          },
+          {
+            "poseId": "adho-mukha-svanasana",
+            "displayName": "Adho Mukha Śvānāsana",
+            "canonicalPage": 90
+          },
+          {
+            "poseId": "adho-mukha-vrksasana",
+            "displayName": "Adho Mukha Vṛkṣāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "pinca-mayurasana",
+            "displayName": "Pinca Mayūrāsana",
+            "canonicalPage": 96
+          },
+          {
+            "poseId": "sirsasana-i",
+            "displayName": "Sīrṣāsana I",
+            "canonicalPage": 98
+          },
+          {
+            "poseId": "dvi-pada-viparita-dandasana",
+            "displayName": "Dvi Pāda Viparīta Daṇḍāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "kapotasana",
+            "displayName": "Kapotāsana",
+            "canonicalPage": 143
+          },
+          {
+            "poseId": "viparita-dandasana-on-chair",
+            "displayName": "Viparīta Daṇḍāsana on chair",
+            "canonicalPage": 136
+          },
+          {
+            "poseId": "rajakapotasana",
+            "displayName": "Rājākapotāsana",
+            "canonicalPage": 144
+          },
+          {
+            "poseId": "urdhva-mukha-pascimottanasana",
+            "displayName": "Ūrdhva Mukha Paścimottānāsana",
+            "canonicalPage": 59
+          },
+          {
+            "poseId": "sarvangasana",
+            "displayName": "Sarvāṅgāsana",
+            "canonicalPage": 108
+          },
+          {
+            "poseId": "savasana-i",
+            "displayName": "Śavāsana I",
+            "canonicalPage": 150
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-04-02T22:14:46.342Z",
+    "updatedAt": "2026-04-02T22:14:46.342Z"
+  }
+]

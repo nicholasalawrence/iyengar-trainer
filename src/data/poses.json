@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "sukhasana",
+    "nameRomanised": "Sukhasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "id": "parvatasana",
+    "nameRomanised": "Parvatāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "id": "tadasana",
+    "nameRomanised": "Tāḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "vrksasana",
+    "nameRomanised": "Vṛkṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "id": "utthita-trikonasana",
+    "nameRomanised": "Utthita Trikoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "utthita-parsvakonasana-ii",
+    "nameRomanised": "Utthita Pārśvakoṇāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "virabhadrasana-ii",
+    "nameRomanised": "Vīrabhadrāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "parsvottanasana-on-ledge",
+    "nameRomanised": "Pārśvottānāsana on ledge",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "uttanasana-i-hands-on-ledge",
+    "nameRomanised": "Uttānāsana I, hands on ledge",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "sarvangasana",
+    "nameRomanised": "Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 108
+      }
+    ]
+  },
+  {
+    "id": "ardha-halasana",
+    "nameRomanised": "Ardha Halāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "savasana-i",
+    "nameRomanised": "Śavāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 150
+      }
+    ]
+  },
+  {
+    "id": "sukhasana-and-parvatasana",
+    "nameRomanised": "Sukhasana and Parvatāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "id": "utthita-hasta-padangusthasana-i-and-ii",
+    "nameRomanised": "Utthita Hasta Pādāṅguṣṭhāsana I and II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "id": "trikonasana",
+    "nameRomanised": "Trikoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "parsvakonasana",
+    "nameRomanised": "Pārśvakoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "virabhadrasana-i",
+    "nameRomanised": "Vīrabhadrāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "parsvottanasana",
+    "nameRomanised": "Pārśvottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "uttanasana-i",
+    "nameRomanised": "Uttānāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "virasana-and-virasana-forward-bend",
+    "nameRomanised": "Vīrāsana and Vīrāsana forward bend",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "gomukhasana",
+    "nameRomanised": "Gomukhāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "virasana",
+    "nameRomanised": "Vīrāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "prasarita-padottanasana",
+    "nameRomanised": "Prasārita Pādottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 42
+      }
+    ]
+  },
+  {
+    "id": "virasana-forward-bend",
+    "nameRomanised": "Vīrāsana forward bend",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "sarvangasana-or-ardha-halasana",
+    "nameRomanised": "Sarvāṅgāsana or Ardha Halāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 108
+      }
+    ]
+  },
+  {
+    "id": "savasana",
+    "nameRomanised": "Śavāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 150
+      }
+    ]
+  },
+  {
+    "id": "adho-mukha-svanasana",
+    "nameRomanised": "Adho Mukha Śvānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 90
+      }
+    ]
+  },
+  {
+    "id": "uttanasana-i-and-ii",
+    "nameRomanised": "Uttānāsana I and II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "virabhadrasana-i-and-ii",
+    "nameRomanised": "Vīrabhadrāsana I and II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "ardha-matsyendrasana-ii",
+    "nameRomanised": "Ardha Matsyendrāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 73
+      }
+    ]
+  },
+  {
+    "id": "ardha-matsyendrasana-i",
+    "nameRomanised": "Ardha Matsyendrāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 70
+      }
+    ]
+  },
+  {
+    "id": "bharadvajasana-ii",
+    "nameRomanised": "Bhāradvājāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 76
+      }
+    ]
+  },
+  {
+    "id": "maricyasana",
+    "nameRomanised": "Māricyāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "id": "janu-sirsasana",
+    "nameRomanised": "Jānu Śīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "pascimottanasana",
+    "nameRomanised": "Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 64
+      }
+    ]
+  },
+  {
+    "id": "baddha-konasana",
+    "nameRomanised": "Baddha Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "id": "urdhva-padma-pascimottanasana",
+    "nameRomanised": "Ūrdhva Padma Paścimottānāsana (p. 60)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "baddha-padma-pascimottanasana",
+    "nameRomanised": "Baddha Padma Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 63
+      }
+    ]
+  },
+  {
+    "id": "triang-mukhaikapada-pascimottanasana",
+    "nameRomanised": "Triaṅg Mukhaikapāda Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 62
+      }
+    ]
+  },
+  {
+    "id": "supra-virasana",
+    "nameRomanised": "Supra Vīrāsana (p. 58)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 58
+      }
+    ]
+  },
+  {
+    "id": "arambhasana",
+    "nameRomanised": "Ārambhāsana (p. 39)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "id": "kurmasana",
+    "nameRomanised": "Kūrmāsana (p. 65)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 65
+      }
+    ]
+  },
+  {
+    "id": "pinndasana-in-sarvangasana",
+    "nameRomanised": "Pinnḍāsana in Sarvāṅgāsana (p. 114)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 114
+      }
+    ]
+  },
+  {
+    "id": "urdhva-mukha-svanasana",
+    "nameRomanised": "Ūrdhva Mukha Śvānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "setu-bandha-sarvangasana",
+    "nameRomanised": "Setu Bandha Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "supra-konasana",
+    "nameRomanised": "Supra Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "id": "adho-mukha-pascimottanasana",
+    "nameRomanised": "Adho Mukha Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "baddha-konasana-dandasana",
+    "nameRomanised": "Baddha Koṇāsana Daṇḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "ardha-matsyendrasana",
+    "nameRomanised": "Ardha Matsyendrāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 73
+      }
+    ]
+  },
+  {
+    "id": "maricyasana-i",
+    "nameRomanised": "Māricyāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 70
+      }
+    ]
+  },
+  {
+    "id": "bharadvajasana",
+    "nameRomanised": "Bhāradvājāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 76
+      }
+    ]
+  },
+  {
+    "id": "triang-mukha-pascimottanasana",
+    "nameRomanised": "Triaṅg Mukha Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 62
+      }
+    ]
+  },
+  {
+    "id": "urdhva-padmasana-in-sarvangasana",
+    "nameRomanised": "Ūrdhva Padmāsana in Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 113
+      }
+    ]
+  },
+  {
+    "id": "supta-virasana",
+    "nameRomanised": "Supta Vīrāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 80
+      }
+    ]
+  },
+  {
+    "id": "supta-konasana",
+    "nameRomanised": "Supta Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "id": "upavista-konasana",
+    "nameRomanised": "Upavista Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-janu-sirsasana",
+    "nameRomanised": "Parīvṛtta Jānu Śīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-pascimottanasana",
+    "nameRomanised": "Parīvṛtta Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "id": "konasana",
+    "nameRomanised": "Koṇāsana (p. 66)",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "id": "adho-mukha-vrksasana",
+    "nameRomanised": "Adho Mukha Vṛkṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 96
+      }
+    ]
+  },
+  {
+    "id": "sirsasana-i",
+    "nameRomanised": "Sīrṣāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "parsva-sirsasana-i",
+    "nameRomanised": "Pārśva Sīrṣāsana I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "eka-pada-sirsasana",
+    "nameRomanised": "Eka Pāda Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-eka-pada-sirsasana",
+    "nameRomanised": "Parīvṛtta Eka Pāda Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "parsvaika-pada-sarvangasana",
+    "nameRomanised": "Pārśvaika Pāda Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "ardha-matsyendrasana-iii",
+    "nameRomanised": "Ardha Matsyendrāsana III",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "padmasana",
+    "nameRomanised": "Padmāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "id": "baddha-padmasana",
+    "nameRomanised": "Baddha Padmāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "ardha-baddha-padma-pascimottanasana",
+    "nameRomanised": "Ardha Baddha Padma Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 61
+      }
+    ]
+  },
+  {
+    "id": "maricyasana-konasana",
+    "nameRomanised": "Māricyāsana Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 63
+      }
+    ]
+  },
+  {
+    "id": "jathara-parivartanasana",
+    "nameRomanised": "Jathara Parivartanāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 65
+      }
+    ]
+  },
+  {
+    "id": "supta-paddhangusthasana",
+    "nameRomanised": "Supta Paddhāṅguṣṭhāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "anantasana",
+    "nameRomanised": "Anantāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "supta-padangusthasana",
+    "nameRomanised": "Supta Pādāṅguṣṭhāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 88
+      }
+    ]
+  },
+  {
+    "id": "halasana",
+    "nameRomanised": "Halāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "viparita-karani",
+    "nameRomanised": "Viparīta Karaṇī",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "viparita-dandasana-on-chair",
+    "nameRomanised": "Viparīta Daṇḍāsana on chair",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 136
+      }
+    ]
+  },
+  {
+    "id": "matsyasana",
+    "nameRomanised": "Matsyāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 83
+      }
+    ]
+  },
+  {
+    "id": "mayyurasana",
+    "nameRomanised": "Mayyurāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "privrtta-sarvangasana",
+    "nameRomanised": "Prīvṛtta Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "ujjayi-pranayama-i",
+    "nameRomanised": "Ujjāyi Prāṇāyāma I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 152
+      }
+    ]
+  },
+  {
+    "id": "ardha-baddha-padmasana-forward-bend",
+    "nameRomanised": "Ardha Baddha Padmāsana forward bend",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 61
+      }
+    ]
+  },
+  {
+    "id": "buddha-konasana-pascimottanasana",
+    "nameRomanised": "Buddha Koṇāsana Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "id": "supra-padangusthasana",
+    "nameRomanised": "Supra Pādāṅguṣṭhāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 84
+      }
+    ]
+  },
+  {
+    "id": "sirsasana",
+    "nameRomanised": "Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "uttanasana",
+    "nameRomanised": "Uttānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "urdhva-hastasana",
+    "nameRomanised": "Ūrdhva Hastāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "namaskar",
+    "nameRomanised": "Namaskar",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "id": "bhujangasana-ii",
+    "nameRomanised": "Bhujaṅgāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "id": "bhujangasana",
+    "nameRomanised": "Bhujaṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 108
+      }
+    ]
+  },
+  {
+    "id": "10-mins",
+    "nameRomanised": "10 mins",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "savasana-ii",
+    "nameRomanised": "Śavāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 152
+      }
+    ]
+  },
+  {
+    "id": "viloma-pranayama-i-and-ii-lying-down",
+    "nameRomanised": "Viloma Prāṇāyāma I and II, lying down",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 161
+      }
+    ]
+  },
+  {
+    "id": "parsva-trikonasana",
+    "nameRomanised": "Pārśva Trikoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-parsvakonasana",
+    "nameRomanised": "Parīvṛtta Pārśvakoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-ardha-candrasana",
+    "nameRomanised": "Parīvṛtta Ardha Candrasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "padangusthasana",
+    "nameRomanised": "Pādāṅguṣṭhāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 90
+      }
+    ]
+  },
+  {
+    "id": "setu-bandha-sarvangasana-on-bench",
+    "nameRomanised": "Setu Bandha Sarvāṅgāsana on bench",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "parsva-sirsasana",
+    "nameRomanised": "Pārśva Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "parsvaika-pada-sirsasana",
+    "nameRomanised": "Pārśvāika Pāda Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 103
+      }
+    ]
+  },
+  {
+    "id": "nutaralambasana",
+    "nameRomanised": "Nutarālambasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "halasana-sarvangasana",
+    "nameRomanised": "Halāsana Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 64
+      }
+    ]
+  },
+  {
+    "id": "bhekaasana",
+    "nameRomanised": "Bhekaāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 86
+      }
+    ]
+  },
+  {
+    "id": "maricyasana-ii",
+    "nameRomanised": "Māricyāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "id": "urdhva-dhanurasana-on-chair-p-138",
+    "nameRomanised": "Ūrdhva Dhanurasana (on chair, p. 138) × 6–8",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 138
+      }
+    ]
+  },
+  {
+    "id": "maricyasana-iii",
+    "nameRomanised": "Māricyāsana III",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 74
+      }
+    ]
+  },
+  {
+    "id": "supta-baddha-konasana",
+    "nameRomanised": "Supta Baddha Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 82
+      }
+    ]
+  },
+  {
+    "id": "setu-bandha-sarvangasana-on-chair",
+    "nameRomanised": "Setu Bandha Sarvāṅgāsana on chair",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 136
+      }
+    ]
+  },
+  {
+    "id": "sarvangasana-on-bench",
+    "nameRomanised": "Sarvāṅgāsana on bench",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "ujjayi-pranayama-i-and-ii",
+    "nameRomanised": "Ujjāyi Prāṇāyāma I and II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 158
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-trikonasana",
+    "nameRomanised": "Parīvṛtta Trikoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "ardha-candrasana",
+    "nameRomanised": "Ardha Candrasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "eka-hasta-bhujangasana",
+    "nameRomanised": "Eka Hasta Bhujaṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "id": "urdhva-mukha-svanasana-without-ledge-uttanasana",
+    "nameRomanised": "Ūrdhva Mukha Śvānāsana without ledge Uttānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 93
+      }
+    ]
+  },
+  {
+    "id": "dhanurasana",
+    "nameRomanised": "Dhanurasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 94
+      }
+    ]
+  },
+  {
+    "id": "urdhva-mukha-pascimottanasana",
+    "nameRomanised": "Ūrdhva Mukha Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 90
+      }
+    ]
+  },
+  {
+    "id": "setu-konasana",
+    "nameRomanised": "Setu Koṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 61
+      }
+    ]
+  },
+  {
+    "id": "adho-mukha-svanasana-dandasana",
+    "nameRomanised": "Adho Mukha Śvānāsana Daṇḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "pasasana",
+    "nameRomanised": "Pāśāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 76
+      }
+    ]
+  },
+  {
+    "id": "urdhva-padmasana-pascimottanasana",
+    "nameRomanised": "Ūrdhva Padmāsana Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "pindasana-in-sarvangasana",
+    "nameRomanised": "Pindāsana in Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 114
+      }
+    ]
+  },
+  {
+    "id": "urdhva-dhanurasana",
+    "nameRomanised": "Ūrdhva Dhanurasana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 146
+      }
+    ]
+  },
+  {
+    "id": "surya-namaskar",
+    "nameRomanised": "Sūrya Namaskār",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "parsva-halasana",
+    "nameRomanised": "Pārśva Halāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "head-supported",
+    "nameRomanised": "head supported",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "ujjayi-pranayama-i-and-ii-lying-down",
+    "nameRomanised": "Ujjāyi Prāṇāyāma I and II, lying down",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "utthita-parsvakonasana",
+    "nameRomanised": "Utthita Pārśvakoṇāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "hasta-padottanasana",
+    "nameRomanised": "Hasta Pādottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 93
+      }
+    ]
+  },
+  {
+    "id": "buddha-padma-pascimottanasana",
+    "nameRomanised": "Buddha Padma Paścimottānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 104
+      }
+    ]
+  },
+  {
+    "id": "urdhva-padmasana-in-sirsasana",
+    "nameRomanised": "Ūrdhva Padmāsana in Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 104
+      }
+    ]
+  },
+  {
+    "id": "karnapidasana",
+    "nameRomanised": "Karṇapīḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "purva-mayurasana-on-chair",
+    "nameRomanised": "Pūrva Mayūrāsana on chair",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 136
+      }
+    ]
+  },
+  {
+    "id": "dvi-pada-viparita-dandasana-from-sirsasana",
+    "nameRomanised": "Dvi Pāda Viparīta Daṇḍāsana from Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 140
+      }
+    ]
+  },
+  {
+    "id": "urdhva-dhanurasana-against-wall",
+    "nameRomanised": "Ūrdhva Dhanurasana against wall",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 142
+      }
+    ]
+  },
+  {
+    "id": "viparita-dandasana-from-sirsasana",
+    "nameRomanised": "Viparīta Daṇḍāsana from Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 140
+      }
+    ]
+  },
+  {
+    "id": "viloma-pranayama-i",
+    "nameRomanised": "Viloma Prāṇāyāma I",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 52
+      }
+    ]
+  },
+  {
+    "id": "viloma-pranayama-ii",
+    "nameRomanised": "Viloma Prāṇāyāma II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 157
+      }
+    ]
+  },
+  {
+    "id": "normal-breathing-lying-down",
+    "nameRomanised": "normal breathing, lying down",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 160
+      }
+    ]
+  },
+  {
+    "id": "trikonasana-quick-succession",
+    "nameRomanised": "Trikoṇāsana (quick succession) × 10",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-sirsasana",
+    "nameRomanised": "Parīvṛtta Sīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "bandha-sarvangasana",
+    "nameRomanised": "Bandha Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 108
+      }
+    ]
+  },
+  {
+    "id": "eka-pada-adho-mukha-svanasana",
+    "nameRomanised": "Eka Pāda Adho Mukha Śvānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "sirsasana-ii",
+    "nameRomanised": "Sīrṣāsana II",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "id": "viparita-dandasana-iii",
+    "nameRomanised": "Viparīta Daṇḍāsana III",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 74
+      }
+    ]
+  },
+  {
+    "id": "pinca-mayurasana",
+    "nameRomanised": "Pinca Mayūrāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 97
+      }
+    ]
+  },
+  {
+    "id": "3-adho-mukha-svanasana",
+    "nameRomanised": "3× Adho Mukha Śvānāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "padmasana-in-sirsasana",
+    "nameRomanised": "Padmāsana in Śīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "dvi-pada-viparita-dandasana",
+    "nameRomanised": "Dvi Pāda Viparīta Daṇḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 144
+      }
+    ]
+  },
+  {
+    "id": "kapotasana",
+    "nameRomanised": "Kapotāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 143
+      }
+    ]
+  },
+  {
+    "id": "rajakapotasana",
+    "nameRomanised": "Rājākapotāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 144
+      }
+    ]
+  },
+  {
+    "id": "parsva-urdhva-padmasana-in-sirsasana",
+    "nameRomanised": "Pārśva Ūrdhva Padmāsana in Śīrṣāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 73
+      }
+    ]
+  },
+  {
+    "id": "viparita-dandasana",
+    "nameRomanised": "Viparīta Daṇḍāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 74
+      }
+    ]
+  },
+  {
+    "id": "parivrtta-pascimottanasana-from-sarvangasana",
+    "nameRomanised": "Parīvṛtta Paścimottānāsana from Sarvāṅgāsana",
+    "references": [
+      {
+        "sourceId": "yoga-iyengar-way",
+        "page": 115
+      }
+    ]
+  }
+]

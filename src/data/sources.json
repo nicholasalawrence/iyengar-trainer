@@ -1,0 +1,29 @@
+[
+  {
+    "id": "yoga-iyengar-way",
+    "name": "Yoga the Iyengar Way",
+    "type": "book",
+    "author": "Silva Mehta, Mira Mehta & Shyam Mehta",
+    "publishYear": 1990,
+    "tier": "free",
+    "notes": "The canonical text for these courses. Page numbers refer to the 1990 Dorling Kindersley edition."
+  },
+  {
+    "id": "tummee",
+    "name": "Tummee",
+    "type": "website",
+    "baseUrl": "https://www.tummee.com",
+    "urlPattern": "https://www.tummee.com/yoga-poses/{id}",
+    "imageUrlPattern": "https://d5sbbf6usl3xq.cloudfront.net/{id}_yoga.png",
+    "tier": "free",
+    "notes": "Pose reference images. URL slug uses the pose id."
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "type": "video",
+    "baseUrl": "https://www.youtube.com",
+    "tier": "free",
+    "notes": "Universal fallback. Searches YouTube for the pose name."
+  }
+]
